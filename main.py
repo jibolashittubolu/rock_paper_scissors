@@ -1,5 +1,5 @@
 import random
-game_options = ['R', 'P', 'S',]
+game_options = ['R', 'P', 'S',] 
 
 def runGame():
     while True:

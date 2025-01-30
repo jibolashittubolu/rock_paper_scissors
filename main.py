@@ -1,7 +1,6 @@
 import random
 game_options = ['R', 'P', 'S', 'NIL']   
 
-
 def runGame():
     while True:
         print('R for rock, P for paper, S for scissors')

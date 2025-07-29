@@ -7,8 +7,6 @@ def runGame():
         # print(' ')
         user_turn = str(input('Pick your option among R or P or S: '))
 
-        
-
         if user_turn not in (game_options):
             print (' ')
             print('Invalid input, please enter a valid input')
